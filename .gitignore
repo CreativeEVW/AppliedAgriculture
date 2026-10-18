@@ -29,3 +29,6 @@ crash-reports/
 
 # Generated resources
 src/generated/resources/.cache
+
+# Disabled mods (third-party jars, not part of the source)
+disabled-mods/
