@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EAE",
+    "EME",
+    "EAE"
+  ],
+  "key": {
+    "E": { "item": "ae2:energy_cell" },
+    "A": { "item": "ae2:growth_accelerator" },
+    "M": { "item": "ae2:molecular_assembler" }
+  },
+  "result": {
+    "id": "appliedagriculture:crop_assembly_chamber",
+    "count": 1
+  }
+}

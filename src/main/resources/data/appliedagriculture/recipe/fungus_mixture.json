@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "tag": "appliedagriculture:mushrooms" },
+    { "tag": "appliedagriculture:mushrooms" }
+  ],
+  "result": {
+    "id": "appliedagriculture:fungus_mixture",
+    "count": 1
+  }
+}

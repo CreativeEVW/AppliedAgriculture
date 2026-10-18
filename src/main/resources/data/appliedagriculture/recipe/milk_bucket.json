@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "appliedagriculture:milk_protein" },
+    { "item": "minecraft:water_bucket" }
+  ],
+  "result": {
+    "id": "minecraft:milk_bucket",
+    "count": 1
+  }
+}

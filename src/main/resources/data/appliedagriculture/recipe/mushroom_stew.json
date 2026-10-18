@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "appliedagriculture:fungus_mixture" },
+    { "item": "minecraft:bowl" }
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stew",
+    "count": 1
+  }
+}

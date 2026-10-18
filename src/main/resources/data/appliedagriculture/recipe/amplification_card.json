@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MCM",
+    "CAC",
+    "MCM"
+  ],
+  "key": {
+    "M": { "item": "appliedagriculture:crop_assembly_chamber" },
+    "C": { "item": "ae2:crafting_accelerator" },
+    "A": { "item": "ae2:advanced_card" }
+  },
+  "result": {
+    "id": "appliedagriculture:amplification_card",
+    "count": 1
+  }
+}

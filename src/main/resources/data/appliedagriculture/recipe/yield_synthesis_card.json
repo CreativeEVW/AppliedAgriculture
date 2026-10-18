@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BCB",
+    "CAC",
+    "BCB"
+  ],
+  "key": {
+    "B": { "item": "appliedagriculture:biomaterial_synthesis_chamber" },
+    "C": { "item": "ae2:crafting_accelerator" },
+    "A": { "item": "ae2:advanced_card" }
+  },
+  "result": {
+    "id": "appliedagriculture:yield_synthesis_card",
+    "count": 1
+  }
+}

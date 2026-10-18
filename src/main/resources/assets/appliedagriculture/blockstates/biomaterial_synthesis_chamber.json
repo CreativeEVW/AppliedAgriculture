@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "online=false": { "model": "appliedagriculture:block/biomaterial_synthesis_chamber" },
+    "online=true": { "model": "appliedagriculture:block/biomaterial_synthesis_chamber" }
+  }
+}

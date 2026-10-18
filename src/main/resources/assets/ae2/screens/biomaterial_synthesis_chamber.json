@@ -1,0 +1,40 @@
+{
+  "$schema": "schema.json",
+  "includes": ["common/common.json", "common/player_inventory.json", "common/toolbox.json"],
+  "background": {
+    "texture": "appliedagriculture:textures/gui/biomaterial_synthesis_chamber.png",
+    "srcRect": [0, 0, 176, 168]
+  },
+  "slots": {
+    "STORAGE": {
+      "left": 80,
+      "top": 47
+    }
+  },
+  "text": {
+    "dialog_title": {
+      "text": {
+        "translate": "block.appliedagriculture.biomaterial_synthesis_chamber"
+      },
+      "position": {
+        "left": 8,
+        "top": 6
+      }
+    },
+    "status": {
+      "position": {
+        "left": 8,
+        "top": 20
+      }
+    },
+    "power_cost": {
+      "text": {
+        "translate": "gui.appliedagriculture.power_cost"
+      },
+      "position": {
+        "left": 8,
+        "top": 32
+      }
+    }
+  }
+}

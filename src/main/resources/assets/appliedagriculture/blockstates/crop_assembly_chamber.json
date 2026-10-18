@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "online=false": { "model": "appliedagriculture:block/crop_assembly_chamber" },
+    "online=true": { "model": "appliedagriculture:block/crop_assembly_chamber" }
+  }
+}

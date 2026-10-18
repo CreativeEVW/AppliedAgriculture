@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FMF",
+    "FFF"
+  ],
+  "key": {
+    "F": { "item": "ae2:fluix_crystal" },
+    "M": { "item": "ae2:molecular_assembler" }
+  },
+  "result": {
+    "id": "appliedagriculture:biomaterial_synthesis_chamber",
+    "count": 1
+  }
+}
